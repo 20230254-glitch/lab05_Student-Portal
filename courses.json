@@ -1,0 +1,5 @@
+[
+  {"course_code": "IT101", "course_name": "Lap trinh PHP", "credits": 3},
+  {"course_code": "IT102", "course_name": "Co so du lieu", "credits": 3},
+  {"course_code": "IT103", "course_name": "Lap trinh Java", "credits": 3}
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "course_code": "IT101",
+    "day": "2",
+    "time_slot": "1",
+    "room": "A101"
+  },
+  {
+    "course_code": "IT102",
+    "day": "3",
+    "time_slot": "3",
+    "room": "B202"
+  },
+  {
+    "course_code": "IT103",
+    "day": "4",
+    "time_slot": "2",
+    "room": "C303"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "student_code": "SV001",
+    "full_name": "Vu Van Nam",
+    "class_name": "DCCNTT14.1",
+    "email": "nam@example.com",
+    "password_hash": "$2y$10$TmzE42anUr0YyClI2GtaceO8J67U.YgJ3.oqbYrwvc1gu/IM81Y6i",
+    "birth_place": "Ninh Ninh",
+    "phone": "0375975005",
+    "university": "Đại học Công nghệ Đông Á",
+    "birth_date": "07/02/2005"
+  }
+]
